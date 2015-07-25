@@ -25,10 +25,6 @@ Validate Your Idea
 
 ---
 
-Scope
-
----
-
 Payment
 
 ^ PCI Compliance
